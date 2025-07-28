@@ -61,6 +61,11 @@ Original data was downloaded from Kaggle in `.json` format:
 
 Let’s connect on [LinkedIn] www.linkedin.com/in/keshav-singh-rajpoot-b37277242
 
+⚠️ Note: GitHub cannot preview .pbix files larger than 100MB.
+👉 To explore the dashboard, download it directly and open it in Power BI Desktop.
+
+
+
 ---
 
 ## 🏷️ Tags
